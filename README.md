@@ -1,16 +1,34 @@
-### Hi there 👋
+[![MasterHead](banner-banner.png)](https://github.com/techanthere)
 
-<!--
-**techanthere/techanthere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I love writing code and building things
+- ⌘ My main interests are in frontend development
+- ✨Currently building my skills through challenges on [Frontend Mentor](https://frontendmentor.io/challenges) 
+- 🔖 I recommend following this awesome [JavaScript30](https://javascript30.com/) Project by Wesbos to every beginner
+- 📖 Currently learning Sass
+
+
+
+<h3>Things I am skilled in:</h3>
+
+<p>
+  <img src="logo/git.svg" alt="git" width="50" height="50"/>
+  <img src="logo/html5.svg" alt="html5" width="50" height="50"/>
+  <img src="logo/css3.svg" alt="css3" width="50" height="50"/>
+  <img src="logo/javascript.svg" alt="javascript" width="50" height="50"/>
+  <img src="logo/python.svg" alt="python" width="50" height="50"/>
+  <img src="logo/linux.svg" alt="figma" width="60" height="60"/>
+</p>
+
+<h3> Github Stats </h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techanthere&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Hania's GitHub stats](https://github-readme-stats.vercel.app/api?username=techanthere&show_icons=true&theme=dark)
+
+<h3>Let's Quote</h3>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
