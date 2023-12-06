@@ -12,7 +12,7 @@
 <h3>Things I am skilled in:</h3>
 
 <p>
-  <img src="logo/wix_logo.svg" alt="wix velo" width="100" height="80"/>
+  <img src="logo/wix_logo.svg" alt="wix velo" width="100" height="60"/>
  <img src="logo/git.svg" alt="git" width="50" height="50"/>
   <img src="logo/html5.svg" alt="html5" width="50" height="50"/>
   <img src="logo/css3.svg" alt="css3" width="50" height="50"/>
