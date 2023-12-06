@@ -4,9 +4,8 @@
 
  I love writing code and building things
 - ⌘ My main interests are in frontend development
-- ✨Currently building my skills through challenges on [Frontend Mentor](https://frontendmentor.io/challenges) 
 - 🔖 I recommend following this awesome [JavaScript30](https://javascript30.com/) Project by Wesbos to every beginner
-- 📖 Currently learning Sass
+- 📖 Currently working on Wix Velo Development
 
 
 
